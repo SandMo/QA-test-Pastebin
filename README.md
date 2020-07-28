@@ -6,6 +6,7 @@ For this project you'll need the following software:
 * Cypress
 * Visual Studio Code
 * Google Chrome
+Also, it's necessary to have enabled the running of scripts in Powershell.
 
 ## Running the tests
 
